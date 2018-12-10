@@ -39,7 +39,7 @@ My collection of tools and softwares for ultimate development environment.
 - Microsoft Office
 - Drive Sync
 - iTunes
-- TeamViewer
+- [TeamViewer](https://www.teamviewer.com/en/download/windows/)
 - Saavn
 - [Spotify](https://www.spotify.com/int/download/windows/)
 
@@ -77,6 +77,6 @@ My collection of tools and softwares for ultimate development environment.
 - WSL
 
 ## Gaming
-- Steam
+- [Steam](https://store.steampowered.com/about/)
 - Origin
 - Uplay
