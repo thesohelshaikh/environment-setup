@@ -6,6 +6,7 @@ My collection of tools and softwares for ultimate development environment.
 - Change locations of default folders.
 - Change default sounds.
 - Change the explorer view.
+- Change privacy settings.
 
 
 ## Browsers
@@ -28,9 +29,9 @@ My collection of tools and softwares for ultimate development environment.
 
 ## Drivers
 - [nvidia](https://www.geforce.com/drivers)
+- One Key Optimizer
 
 ## Utilities
-- One Key Optimizer
 - [7zip](https://www.7-zip.org/download.html)
 - [VLC Media Player](https://www.videolan.org/)
 - [Bittorrent](https://www.bittorrent.com/downloads/win)
@@ -38,7 +39,7 @@ My collection of tools and softwares for ultimate development environment.
 - [Proton VPN](https://protonvpn.com/download/)
 - Microsoft Office
 - Drive Sync
-- iTunes
+- [iTunes](https://www.apple.com/in/itunes/download/)
 - [TeamViewer](https://www.teamviewer.com/en/download/windows/)
 - Saavn
 - [Spotify](https://www.spotify.com/int/download/windows/)
@@ -77,6 +78,7 @@ My collection of tools and softwares for ultimate development environment.
 - WSL
 
 ## Gaming
+- [nvidia Geforce Experience](https://www.geforce.com/geforce-experience/download)
 - [Steam](https://store.steampowered.com/about/)
-- Origin
+- [Origin](https://www.origin.com/ind/en-us/store/download)
 - Uplay
