@@ -2,6 +2,7 @@
 My collection of tools and softwares for ultimate development environment.
 
 ## General Settings
+- Uninstall bloatware.
 - Change locations of default folders.
 - Change default sounds.
 - Change the explorer view.
@@ -21,26 +22,27 @@ My collection of tools and softwares for ultimate development environment.
   - HTTPS Everywhere
   - New tab Clock
   - Google Dictionary
-- Firefox
-- Tor
+- [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+- [Tor](https://www.torproject.org/download/download-easy.html)
 - Brave
 
 ## Drivers
-- nvidia
+- [nvidia](https://www.geforce.com/drivers)
 
 ## Utilities
 - One Key Optimizer
-- 7zip
-- VLC Media Player
-- Bittorrent
+- [7zip](https://www.7-zip.org/download.html)
+- [VLC Media Player](https://www.videolan.org/)
+- [Bittorrent](https://www.bittorrent.com/downloads/win)
   > Configure upload and download options.
+- [Proton VPN](https://protonvpn.com/download/)
 - Microsoft Office
 - Drive Sync
 - iTunes
 - TeamViewer
 - Saavn
-- Spotify
-- Proton VPN
+- [Spotify](https://www.spotify.com/int/download/windows/)
+
 
 ## General Development
 - VS Code
