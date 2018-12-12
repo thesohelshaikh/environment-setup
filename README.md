@@ -23,6 +23,7 @@ My collection of tools and softwares for ultimate development environment.
   - HTTPS Everywhere
   - New tab Clock
   - Google Dictionary
+  - Chrome Remote Desktop
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/)
 - [Tor](https://www.torproject.org/download/download-easy.html)
 - Brave
@@ -37,16 +38,16 @@ My collection of tools and softwares for ultimate development environment.
 - [Bittorrent](https://www.bittorrent.com/downloads/win)
   > Configure upload and download options.
 - [Proton VPN](https://protonvpn.com/download/)
-- Microsoft Office
-- Drive Sync
+- [Drive Sync](https://www.google.com/drive/download/)
 - [iTunes](https://www.apple.com/in/itunes/download/)
 - [TeamViewer](https://www.teamviewer.com/en/download/windows/)
-- Saavn
+- [JioSaavn](https://www.microsoft.com/en-us/p/jiosaavn-music-radio/9nblggh1rrh1)
 - [Spotify](https://www.spotify.com/int/download/windows/)
+- Microsoft Office
 
 
 ## General Development
-- VS Code
+- [VS Code](https://code.visualstudio.com/download)
   #### Extensions
   - Atom One Dark theme
   - Auto Import
@@ -64,18 +65,32 @@ My collection of tools and softwares for ultimate development environment.
   - Material Icon theme
   - TODO highlight
   - vscode-pdf
-- Sublime Text
-- Git
-- GitHub Desktop
-- Python
-- Anaconda
+- [Sublime Text](https://www.sublimetext.com/)
+- [Git](https://git-scm.com/download/win)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Python](https://www.python.org/downloads/)
+- [Anaconda](https://www.anaconda.com/download/)
 - JDK
 - Oracle Virtual Box
   - Kali
   - Ubuntu
   - Parrot Security
-- Wamp
 - WSL
+
+## Web Development
+- Wamp
+- [node](https://nodejs.org/en/download/)
+- flask
+- [npm](https://www.npmjs.com/package/npm)
+  > Only if node is't installed.
+
+
+## Android
+- [Android Studio](https://developer.android.com/studio/)
+
+## Flutter
+- [SDK](https://flutter.io/docs/get-started/install/windows)
+- VS Code Extension
 
 ## Gaming
 - [nvidia Geforce Experience](https://www.geforce.com/geforce-experience/download)
