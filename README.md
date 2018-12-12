@@ -70,7 +70,7 @@ My collection of tools and softwares for ultimate development environment.
 - [GitHub Desktop](https://desktop.github.com/)
 - [Python](https://www.python.org/downloads/)
 - [Anaconda](https://www.anaconda.com/download/)
-- JDK
+- [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - Oracle Virtual Box
   - Kali
   - Ubuntu
