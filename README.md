@@ -71,19 +71,15 @@ My collection of tools and softwares for ultimate development environment.
 - [Python](https://www.python.org/downloads/)
 - [Anaconda](https://www.anaconda.com/download/)
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- Oracle Virtual Box
-  - Kali
-  - Ubuntu
-  - Parrot Security
-- WSL
+- [Oracle Virtual Box](https://www.virtualbox.org/)
+- [WSL Ubuntu](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q#activetab=pivot:overviewtab)
 
 ## Web Development
-- Wamp
+- [Wamp](https://sourceforge.net/projects/wampserver/files/latest/download)
 - [node](https://nodejs.org/en/download/)
-- flask
+- [flask](http://flask.pocoo.org/)
 - [npm](https://www.npmjs.com/package/npm)
   > Only if node is't installed.
-
 
 ## Android
 - [Android Studio](https://developer.android.com/studio/)
@@ -92,6 +88,12 @@ My collection of tools and softwares for ultimate development environment.
 - [SDK](https://flutter.io/docs/get-started/install/windows)
 - VS Code Extension
 
+## Penetration Testing
+- [Kali](https://www.kali.org/downloads/)
+- [Metasploitable](https://sourceforge.net/projects/metasploitable/)
+- [Ubuntu](https://www.ubuntu.com/download/desktop)
+- Parrot Security
+  
 ## Gaming
 - [nvidia Geforce Experience](https://www.geforce.com/geforce-experience/download)
 - [Steam](https://store.steampowered.com/about/)
