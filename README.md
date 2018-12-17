@@ -92,7 +92,7 @@ My collection of tools and softwares for ultimate development environment.
 - [Kali](https://www.kali.org/downloads/)
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/)
 - [Ubuntu](https://www.ubuntu.com/download/desktop)
-- Parrot Security
+- [Parrot Security](https://www.parrotsec.org/download.php)
   
 ## Gaming
 - [nvidia Geforce Experience](https://www.geforce.com/geforce-experience/download)
