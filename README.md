@@ -54,6 +54,7 @@ My collection of tools and softwares for ultimate development environment.
   - Beautify
   - Bracket Pair Colorizer
   - Code Runner
+  - Code Spell Checker
   - Color Highlight
   - CSS Peak
   - Dracula at Night
@@ -65,6 +66,8 @@ My collection of tools and softwares for ultimate development environment.
   - Material Icon theme
   - TODO highlight
   - vscode-pdf
+  #### Font
+  - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Git](https://git-scm.com/download/win)
 - [GitHub Desktop](https://desktop.github.com/)
