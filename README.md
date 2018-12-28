@@ -32,15 +32,20 @@ My collection of tools and softwares for ultimate development environment.
 - [nvidia](https://www.geforce.com/drivers)
 - One Key Optimizer
 
+## Security
+- [Kaspersky Free](https://www.kaspersky.co.in/free-antivirus)
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [Proton VPN](https://protonvpn.com/download/)
+
 ## Utilities
 - [7zip](https://www.7-zip.org/download.html)
 - [VLC Media Player](https://www.videolan.org/)
 - [Bittorrent](https://www.bittorrent.com/downloads/win)
   > Configure upload and download options.
-- [Proton VPN](https://protonvpn.com/download/)
 - [Drive Sync](https://www.google.com/drive/download/)
 - [iTunes](https://www.apple.com/in/itunes/download/)
 - [TeamViewer](https://www.teamviewer.com/en/download/windows/)
+- [CCleaner](https://www.ccleaner.com/)
 - [JioSaavn](https://www.microsoft.com/en-us/p/jiosaavn-music-radio/9nblggh1rrh1)
 - [Spotify](https://www.spotify.com/int/download/windows/)
 - [Skype](https://www.skype.com/en/get-skype/)
