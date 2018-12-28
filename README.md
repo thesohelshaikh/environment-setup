@@ -46,6 +46,7 @@ My collection of tools and softwares for ultimate development environment.
 - [iTunes](https://www.apple.com/in/itunes/download/)
 - [TeamViewer](https://www.teamviewer.com/en/download/windows/)
 - [CCleaner](https://www.ccleaner.com/)
+- [WinDirStat](https://windirstat.net/download.html)
 - [JioSaavn](https://www.microsoft.com/en-us/p/jiosaavn-music-radio/9nblggh1rrh1)
 - [Spotify](https://www.spotify.com/int/download/windows/)
 - [Skype](https://www.skype.com/en/get-skype/)
