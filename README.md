@@ -43,7 +43,8 @@ My collection of tools and softwares for ultimate development environment.
 - [TeamViewer](https://www.teamviewer.com/en/download/windows/)
 - [JioSaavn](https://www.microsoft.com/en-us/p/jiosaavn-music-radio/9nblggh1rrh1)
 - [Spotify](https://www.spotify.com/int/download/windows/)
-- Microsoft Office
+- [Skype](https://www.skype.com/en/get-skype/)
+- [Microsoft Office](https://products.office.com/en-in/office-online/documents-spreadsheets-presentations-office-online)
 
 
 ## General Development
