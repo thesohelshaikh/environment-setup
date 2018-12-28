@@ -82,6 +82,7 @@ My collection of tools and softwares for ultimate development environment.
 - [Anaconda](https://www.anaconda.com/download/)
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Oracle Virtual Box](https://www.virtualbox.org/)
+- [Vmware Workstation Player](https://www.vmware.com/products/workstation-player.html)
 - [WSL Ubuntu](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q#activetab=pivot:overviewtab)
 
 ## Web Development
