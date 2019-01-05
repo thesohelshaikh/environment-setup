@@ -51,6 +51,8 @@ My collection of tools and softwares for ultimate development environment.
 - [Spotify](https://www.spotify.com/int/download/windows/)
 - [Skype](https://www.skype.com/en/get-skype/)
 - [Microsoft Office](https://products.office.com/en-in/office-online/documents-spreadsheets-presentations-office-online)
+- [Open Broadcast Software](https://obsproject.com/)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)
 
 
 ## General Development
