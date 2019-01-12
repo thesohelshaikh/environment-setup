@@ -94,6 +94,10 @@ My collection of tools and softwares for ultimate development environment.
 - [npm](https://www.npmjs.com/package/npm)
   > Only if node is't installed.
 
+## Java
+- [Netneans 8.2](https://netbeans.apache.org/download/index.html#_pre_apache_netbeans_versions)
+- [Intellij IDEA](https://www.jetbrains.com/idea/)
+
 ## Android
 - [Android Studio](https://developer.android.com/studio/)
 
