@@ -54,6 +54,7 @@ My collection of tools and softwares for ultimate development environment.
 - [Open Broadcast Software](https://obsproject.com/)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)
 - [draw.io](https://about.draw.io/integrations/)
+- [Mendeley](https://www.mendeley.com/download-desktop/)
 
 
 ## General Development
