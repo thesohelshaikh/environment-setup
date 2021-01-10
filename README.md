@@ -10,27 +10,20 @@ My collection of tools and softwares for ultimate development environment.
 
 
 ## Browsers
-- [Chrome](https://www.google.com/chrome/)
-  #### Extensions
-  > Chrome will automarically sync and auto install the extensions, this is just for reference.
-  - AdBlock Plus
-  - Grammarly
-  - 1Password
-  - Pocket
-  - TunnelBear
-  - MailTracker
-  - Go Back with Backspace
-  - HTTPS Everywhere
-  - New tab Clock
-  - Google Dictionary
-  - Chrome Remote Desktop
+
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+  #### Extensions
+  - uBlock Origin
+  - Privacy Badger
+  - Decentraleyes
+  - Grammarly
+  - Bitwarden
+  - HTTPS Everywhere
 - [Tor](https://www.torproject.org/download/download-easy.html)
-- Brave
 
 ## Drivers
 - [nvidia](https://www.geforce.com/drivers)
-- One Key Optimizer
+- Lenovo Vantage from Windows store
 
 ## Security
 - [Kaspersky Free](https://www.kaspersky.co.in/free-antivirus)
