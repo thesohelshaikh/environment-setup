@@ -33,7 +33,7 @@ My collection of tools and softwares for ultimate development environment.
 ## Utilities
 - [7zip](https://www.7-zip.org/download.html)
 - [VLC Media Player](https://www.videolan.org/)
-- [Bittorrent](https://www.bittorrent.com/downloads/win)
+- [qBittorrent](https://www.qbittorrent.org/download.php)
   > Configure upload and download options.
 - [Drive Sync](https://www.google.com/drive/download/)
 - [iTunes](https://www.apple.com/in/itunes/download/)
