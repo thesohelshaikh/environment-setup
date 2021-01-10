@@ -82,6 +82,15 @@ My collection of tools and softwares for ultimate development environment.
 - [Oracle Virtual Box](https://www.virtualbox.org/)
 - [Vmware Workstation Player](https://www.vmware.com/products/workstation-player.html)
 - [WSL Ubuntu](https://www.microsoft.com/en-us/p/ubuntu-1804-lts/9n9tngvndl3q#activetab=pivot:overviewtab)
+- [Postman](https://www.postman.com/downloads/)
+
+
+## Java
+- [Intellij IDEA](https://www.jetbrains.com/idea/)
+- [Netneans 8.2](https://netbeans.apache.org/download/index.html#_pre_apache_netbeans_versions)
+
+## Android
+- [Android Studio](https://developer.android.com/studio/)
 
 ## Web Development
 - [Wamp](https://sourceforge.net/projects/wampserver/files/latest/download)
@@ -89,13 +98,6 @@ My collection of tools and softwares for ultimate development environment.
 - [flask](http://flask.pocoo.org/)
 - [npm](https://www.npmjs.com/package/npm)
   > Only if node is't installed.
-
-## Java
-- [Netneans 8.2](https://netbeans.apache.org/download/index.html#_pre_apache_netbeans_versions)
-- [Intellij IDEA](https://www.jetbrains.com/idea/)
-
-## Android
-- [Android Studio](https://developer.android.com/studio/)
 
 ## Flutter
 - [SDK](https://flutter.io/docs/get-started/install/windows)
@@ -106,9 +108,13 @@ My collection of tools and softwares for ultimate development environment.
 - [Metasploitable](https://sourceforge.net/projects/metasploitable/)
 - [Ubuntu](https://www.ubuntu.com/download/desktop)
 - [Parrot Security](https://www.parrotsec.org/download.php)
+- [Wireshark](https://www.wireshark.org/#download)
+- [Burp Suite](https://portswigger.net/burp/communitydownload)
   
 ## Gaming
 - [nvidia Geforce Experience](https://www.geforce.com/geforce-experience/download)
 - [Steam](https://store.steampowered.com/about/)
 - [Origin](https://www.origin.com/ind/en-us/store/download)
+- [Epic](https://www.epicgames.com/site/en-US/home)
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner)
 - Uplay
