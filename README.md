@@ -23,7 +23,7 @@ My collection of tools and softwares for ultimate development environment.
 
 ## Drivers
 - [nvidia](https://www.geforce.com/drivers)
-- Lenovo Vantage from Windows store
+- One Key Optimizer
 
 ## Security
 - [Kaspersky Free](https://www.kaspersky.co.in/free-antivirus)
