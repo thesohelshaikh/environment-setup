@@ -4,19 +4,28 @@
 - TBF
 
 ## Browser
+- Safari (Pre-installed)
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/)
 
 ## Developement
+- Jetbrains Toolbox
 - IntelliJ Idea
 - Android Studio
 - [VS Code](https://code.visualstudio.com/download)
 - Xcode
+- Git (Pre-installed, setup required)
 
 ## Utilities
-- TBF
+- [Homebrew](https://brew.sh)
+- [Rectangle](https://rectangleapp.com)
 
+## Other apps
+- Steam
+- Bitwarden
+- Slack
+- Discord
 
-# my-environment-setup (Windows) 
+# Windows
 My collection of tools and softwares for ultimate development environment.
 
 ## General Settings
