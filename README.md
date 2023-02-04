@@ -1,3 +1,21 @@
+# Mac
+
+## General settings
+- TBF
+
+## Browser
+- [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+
+## Developement
+- IntelliJ Idea
+- Android Studio
+- [VS Code](https://code.visualstudio.com/download)
+- Xcode
+
+## Utilities
+- TBF
+
+
 # my-environment-setup (Windows) 
 My collection of tools and softwares for ultimate development environment.
 
