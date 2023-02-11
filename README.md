@@ -5,9 +5,10 @@
 
 ## Browser
 - Safari (Pre-installed)
+  - [AdGuard](https://adguard.com/en/welcome.html)
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/)
 
-## Developement
+## Development
 - Jetbrains Toolbox
 - IntelliJ Idea
 - Android Studio
@@ -18,12 +19,19 @@
 ## Utilities
 - [Homebrew](https://brew.sh)
 - [Rectangle](https://rectangleapp.com)
+- [Google Drive](https://www.google.com/intl/en_in/drive/download/)
+- UTM
+- [Stats](https://github.com/exelban/stats)
+- Dozer
+
 
 ## Other apps
-- Steam
 - Bitwarden
+- Steam
 - Slack
 - Discord
+- Notion
+- Figma
 
 # Windows
 My collection of tools and softwares for ultimate development environment.
